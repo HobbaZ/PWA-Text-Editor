@@ -19,7 +19,7 @@ Make a text editor with PWA functionality
 - Use webpack
 
 ## Deployment
-You can view the [website link](https://fierce-earth-24783.herokuapp.com/) here. 
+You can view the [website link](https://boiling-meadow-89340.herokuapp.com/) here. 
 
 
 ## Table of Contents
